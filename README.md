@@ -1,11 +1,6 @@
 # ComputerGraphics-Transparency
 ## Students Team data
 
-Name: Samer Najjar
-
-Student Number: 207477522
-
-
 Name: faisal saadi
 
 Student Number: 208336321
@@ -17,7 +12,6 @@ Student Number: 208336321
 
 In this lab we are supposed to implement transparency algorithm in computer graphics meshviewer , using opengl and skeleton provided by the lecturer .
 The plan is to work approx 8~ hours per week till the end of the semester we expect to start to see results by the 4th week .
-The cooperative work between the members is mainly conducted on zoom sundays and weekends .
 The communication between the teams member and the lecturer will be via slack once per 1-2 weeks .
 
 ## materials
