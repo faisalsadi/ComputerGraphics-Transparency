@@ -10,9 +10,8 @@ Student Number: 208336321
 
 ### lab Description
 
-In this lab we are supposed to implement transparency algorithm in computer graphics meshviewer , using opengl and skeleton provided by the lecturer .
-The plan is to work approx 8~ hours per week till the end of the semester we expect to start to see results by the 4th week .
-The communication between the teams member and the lecturer will be via slack once per 1-2 weeks .
+In this lab i have implemented some transparency algorithms in computer graphics model viewer provided by the lecturer , using opengl and C++.
+
 
 ## materials
 http://www.opengl-tutorial.org/intermediate-tutorials/tutorial-10-transparency
